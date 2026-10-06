@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner-cronos23-v2.jpg" />
-    <img src="assets/banner-cronos23-animated.svg" alt="CRONOS23 — TI, redes e automação. Núcleo tecnológico com anéis orbitais e pulsos de dados." width="100%" />
+    <img src="assets/banner-cronos23-animated-v3.svg" alt="CRONOS23 — TI, redes e automação. Núcleo tecnológico com anéis orbitais e pulsos de dados." width="100%" />
   </picture>
 </p>
 
