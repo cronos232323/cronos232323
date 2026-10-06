@@ -49,9 +49,16 @@ Boletim semanal com orientações práticas para tornar o uso da tecnologia mais
 
 [**Conheça o Tecnnic Informa →**](https://tecnnic-informa.jrmarcelo23.chatgpt.site/) · [**Veja a apresentação do projeto**](projetos/tecnnic-informa.md)
 
+## Contato
+
+- **E-mail:** [clashcronos23@gmail.com](mailto:clashcronos23@gmail.com)
+- **Telefone / WhatsApp:** [+55 (48) 99902-2204](https://wa.me/5548999022204)
+
 ## Por aqui
 
 Este espaço reúne meus interesses técnicos e minha evolução em projetos pessoais. Novos trabalhos públicos serão apresentados com contexto, documentação e instruções de uso.
+
+[Organização dos projetos pessoais](docs/ORGANIZACAO-GITHUB.md) · [Modelo para novos projetos](modelos/projeto-pessoal/README.md)
 
 ---
 
