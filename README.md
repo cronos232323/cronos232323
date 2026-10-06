@@ -27,6 +27,24 @@ Meu foco é simplificar rotinas, organizar informações e desenvolver soluçõe
 - Validar o que foi implementado e documentar suas limitações.
 - Compartilhar apenas conteúdo adequado à divulgação pública.
 
+## Projeto em destaque
+
+### Tecnnic Informa
+
+**Comunicação sobre segurança, tecnologia e boas práticas corporativas.**
+
+Boletim semanal com orientações práticas para tornar o uso da tecnologia mais consciente no dia a dia. O portal apresenta a edição atual e oferece acesso direto ao boletim.
+
+**Minha participação:** publicação do boletim e organização da apresentação digital do conteúdo.
+
+| Aspecto | Aplicação no projeto |
+| :--- | :--- |
+| Comunicação | Orientações objetivas sobre segurança e uso da tecnologia. |
+| Experiência de uso | Edição atual em destaque e acesso direto ao boletim. |
+| Identidade visual | Apresentação consistente com a identidade da publicação. |
+
+[**Conheça o Tecnnic Informa →**](https://tecnnic-informa.jrmarcelo23.chatgpt.site/)
+
 ## Por aqui
 
 Este espaço reúne meus interesses técnicos e minha evolução em projetos pessoais. Novos trabalhos públicos serão apresentados com contexto, documentação e instruções de uso.
