@@ -10,7 +10,7 @@
 
 Meu foco é simplificar rotinas, organizar informações e desenvolver soluções úteis. Tenho interesse em infraestrutura, segurança defensiva e desenvolvimento de ferramentas que tornem a tecnologia mais acessível no dia a dia.
 
-## Áreas de interesse
+## Áreas de atuação e interesse
 
 | Área | Foco |
 | :--- | :--- |
@@ -35,7 +35,11 @@ Meu foco é simplificar rotinas, organizar informações e desenvolver soluçõe
 
 Boletim semanal com orientações práticas para tornar o uso da tecnologia mais consciente no dia a dia. O portal apresenta a edição atual e oferece acesso direto ao boletim.
 
+![Página pública do Tecnnic Informa](assets/tecnnic-informa-preview.jpg)
+
 **Minha participação:** publicação do boletim e organização da apresentação digital do conteúdo.
+
+**Tecnologias do projeto:** HTML, CSS, JavaScript, Node.js, GitHub e Canva.
 
 | Aspecto | Aplicação no projeto |
 | :--- | :--- |
@@ -43,7 +47,7 @@ Boletim semanal com orientações práticas para tornar o uso da tecnologia mais
 | Experiência de uso | Edição atual em destaque e acesso direto ao boletim. |
 | Identidade visual | Apresentação consistente com a identidade da publicação. |
 
-[**Conheça o Tecnnic Informa →**](https://tecnnic-informa.jrmarcelo23.chatgpt.site/)
+[**Conheça o Tecnnic Informa →**](https://tecnnic-informa.jrmarcelo23.chatgpt.site/) · [**Veja a apresentação do projeto**](projetos/tecnnic-informa.md)
 
 ## Por aqui
 
