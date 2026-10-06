@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="CRONOS — TI, redes e automação" width="100%" />
+  <img src="assets/banner-cronos23.jpg" alt="CRONOS23 — TI, redes e automação" width="100%" />
 </p>
 
-# Olá, eu sou o Cronos
+# Claudecir Marcelo Junior
+
+**Cronos23** · Meu codinome em projetos de tecnologia.
 
 **TI, redes e automação aplicadas a problemas reais.**
 
