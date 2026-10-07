@@ -41,3 +41,11 @@ A apresentação descreve recursos observáveis e tecnologias identificadas na e
 [Visitar o portal público](https://tecnnic-informa.jrmarcelo23.chatgpt.site/)
 
 Esta apresentação utiliza somente informações destinadas à divulgação pública. Código privado, configurações internas, credenciais e dados operacionais não fazem parte do portfólio.
+
+## Escopo desta apresentação no portfólio
+
+**Projeto profissional realizado no contexto da Tecnnic.** Esta página registra minha participação na apresentação digital e publicação do boletim; não representa um produto pessoal independente.
+
+A divulgação se limita à interface pública, ao propósito do boletim, às tecnologias gerais e à participação descrita acima. Não inclui inventários, endereços de rede, arquitetura interna, nomes de usuários, chamados, documentos internos, indicadores operacionais ou informações sobre fornecedores e clientes.
+
+O código-fonte e os materiais internos permanecem privados. Qualquer nova imagem ou documento deve ser revisado antes de entrar nesta apresentação. A conclusão da apresentação no quadro de projetos não significa encerramento do boletim nem homologação de todos os recursos do portal.
