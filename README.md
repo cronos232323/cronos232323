@@ -16,6 +16,8 @@ Meu foco é simplificar rotinas, organizar informações e desenvolver soluçõe
 
 Tenho 8 anos de experiência em telecomunicações, com atuação em redes, telefonia e internet.
 
+Tenho também 4 anos de atuação em TI na Tecnnic.
+
 ## Meu site · Cronos23
 
 [**Acesse meu portfólio profissional →**](https://cronos23-portfolio.jrmarcelo23.chatgpt.site/)
