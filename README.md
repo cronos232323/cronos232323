@@ -13,6 +13,13 @@
 
 Meu foco é simplificar rotinas, organizar informações e desenvolver soluções úteis. Tenho interesse em infraestrutura, segurança defensiva e desenvolvimento de ferramentas que tornem a tecnologia mais acessível no dia a dia.
 
+
+## Meu site · Cronos23
+
+[**Acesse meu portfólio profissional →**](https://cronos23-portfolio.jrmarcelo23.chatgpt.site/)
+
+Conheça minha atuação em TI, infraestrutura, dados, segurança eletrônica e automação de ambientes, além dos projetos apresentados e canais de contato.
+
 ## Áreas de atuação e interesse
 
 | Área | Foco |
