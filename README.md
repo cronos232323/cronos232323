@@ -14,6 +14,8 @@
 Meu foco é simplificar rotinas, organizar informações e desenvolver soluções úteis. Tenho interesse em infraestrutura, segurança defensiva e desenvolvimento de ferramentas que tornem a tecnologia mais acessível no dia a dia.
 
 
+Tenho 8 anos de experiência em telecomunicações, com atuação em redes, telefonia e internet.
+
 ## Meu site · Cronos23
 
 [**Acesse meu portfólio profissional →**](https://cronos23-portfolio.jrmarcelo23.chatgpt.site/)
